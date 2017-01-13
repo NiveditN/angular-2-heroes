@@ -1,2 +1,2 @@
-# angular-2-heroes
+# angular-tour-of-heroes
 Tutorial for Angular 2
